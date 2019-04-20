@@ -1,0 +1,7 @@
+<!--pages/cropper/cropper.wxml-->
+<view class="container flex">
+    <view>
+        <image src="{{src}}" class="avatar" bindtap="upload"></image>
+        <view class="item flex" bindtap="upload">点我头像</view>
+    </view>
+</view>

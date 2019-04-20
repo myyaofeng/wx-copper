@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/cropper/cropper",
+    "pages/upload/upload"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1B82D1",
+    "navigationBarTitleText": "marsmina",
+    "navigationBarTextStyle": "white"
+  },
+  "networkTimeout": {
+    "request": 8000,
+    "connectSocket": 8000,
+    "uploadFile": 8000,
+    "downloadFile": 8000
+  },
+  "debug": false
+}
